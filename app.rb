@@ -20,4 +20,5 @@ class App < Sinatra::Base
     answer
   end
   
+  get ''
 end
